@@ -7,6 +7,7 @@ Identifying people with suicidal tendencies through social networks is a real so
 The data is obtained using online user-generated content. This project demonstrates various classification and clustering techniques. Following are some of the traditional machine learning techniques implemented: Decision tree, Random forest, AdaBoost, etc. Deep Learning models also has been implemented such as LSTM and CNN models.
 
 Dataset:
+
 For Sentiment Classification (Positive - Negative)
 	⁃	250,000 rows tweets
 	⁃	Features: User ID, Date, Username, Date, Time,  Tweets, Sentiment
